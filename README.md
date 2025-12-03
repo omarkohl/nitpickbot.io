@@ -1,2 +1,5 @@
 # nitpickbot.io
-Website for [nitpickbot.io](https://nitpickbot.io/)
+
+**Archived: This site is no longer active!**
+
+Website for nitpickbot.io
